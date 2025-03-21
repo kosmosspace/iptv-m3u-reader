@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: m3uiptv\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-19 22:27+0200\n"
-"PO-Revision-Date: 2025-01-24 14:58+0200\n"
+"PO-Revision-Date: 2025-03-21 06:25+0200\n"
 "Last-Translator: \n"
 "Language-Team: spartak73 <spartak73@inbox.ru\n"
 "MIME-Version: 1.0\n"
@@ -126,7 +126,7 @@ msgstr "Разрешить показ пункта меню 'Видео по з�
 
 #: ../src/plugin.py:1365
 msgid "Alphabetically"
-msgstr ""
+msgstr "По алфавиту"
 
 #: ../src/plugin.py:1360
 msgid "Append"
@@ -166,9 +166,8 @@ msgid "By channel name"
 msgstr "По названию канала"
 
 #: ../src/plugin.py:1365
-#, fuzzy
 msgid "By channel number"
-msgstr "По названию канала"
+msgstr "По номеру канала"
 
 #: ../src/plugin.py:1346
 msgid "By tvg-id"
@@ -192,7 +191,7 @@ msgstr "Измените систему воспроизведения на од
 
 #: ../src/plugin.py:1442
 msgid "Channel ordering criteria"
-msgstr ""
+msgstr "Критерии сортировки каналов"
 
 #: ../src/plugin.py:1566
 msgid "Check for Network"
